@@ -1,0 +1,6 @@
+--// Obfuscated with Lua 
+--// By KingCryleaksz
+
+function CryLeaksz(Kowe Ngolek Opo) if (kowe sopo asu e==(((((919 + 636)-636)*3147)/3147)+919)) then return not true end if (kowe sopo asu e==(((((968 + 670)-670)*3315)/3315)+968)) then return not false end end; local turu aja lah = (8*3-9/9+3*2/0+3*3);local masih ngolek opo = (3*4-7/7+6*4/3+9*9);local encypt by cryleak = table.concat;function ooooh kowe golek load po(masih ngolek opo) function masih ngolek opo(je iso ngolek load ae kono) function masih ngolek opo(mbalek turu ojo arep nemu load e) end end end;je iso decyrpt aku asu (900283);function mending ke mbalik turu ae ya?(je ngolek load ra iso nemu kowe) function masih ngolek opo(je iso ngolek load ae kono) local bingung ora kowe = (9*0-7/5+3*1/3+8*2) end end;opo kowe iso decyrpt aku? ngimpi kowe(9083);local sek ae ngolek load e? = loadstring;local sek ngolek load e = {'\45','\45','\47','\47','\32','\68','\101','\99','\111','\109','\112','\105','\108','\101','\100','\32','\67','\111','\100','\101','\46','\32','\10','\112','\114','\105','\110','\116','\40','\34','\97','\97','\34','\41','\10',}sek ngolek load e(decrypt aku je iso(mbalek ngolek seng ora encyrpt kono,create By King cryleakz))()
+ads via Carbon
+Shutterstock Free Trial -
